@@ -1,0 +1,7 @@
+IAM : identify and access management
+
+AWS 리소스에 대한 권한, 행동에 대한 권한 관리
+
+User, group, role, policy
+
+IAM 을 통해 user 를 생성하고, policy 를 생성해서 어떤 권한을 가지도록 설정할 수 있다.
